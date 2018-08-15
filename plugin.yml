@@ -4,3 +4,9 @@ version: 1.0
 api: 4.0.0
 author: PMExperts(HonorGamerHD)
 #PMExperts #TeamTuranic
+
+commands:
+ me:
+  permission: "mecommand.command.me"
+  usage: "/me <message>"
+  description: "Vanilla me command"
