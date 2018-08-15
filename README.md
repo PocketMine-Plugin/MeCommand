@@ -8,16 +8,16 @@
 Simple Helper Plugin for Servers!
 
 ### Planned and finished features:
-- [ ] Commands
-    - [ ] /me
+- [x] Commands
+    - [x] /me
 - [ ] other functions
-    - [ ] Permission System
+    - [x] Permission System
     - [ ] Config File
     - [ ] Custom Me Message
 
 ### Next TODO:
-- Start Coding
 - add config
+- add Custom MeMessage
 
 # Addon Plugins:
 - [ServerHelper](https://github.com/PMExpertsDE/Server-Helper)
