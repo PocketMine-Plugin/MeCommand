@@ -1,4 +1,4 @@
-# Server-Helper
+# MeCommand - Finished
 ---
 | Discord |
 | :-----: |
@@ -10,14 +10,13 @@ Simple Helper Plugin for Servers!
 ### Planned and finished features:
 - [x] Commands
     - [x] /me
-- [ ] other functions
+- [x] other functions
     - [x] Permission System
-    - [ ] Config File
-    - [ ] Custom Me Message
+    - [x] Config File
+    - [x] Custom Me Message
 
 ### Next TODO:
-- add config
-- add Custom MeMessage
+- nothing is planned!
 
 # Addon Plugins:
 - [ServerHelper](https://github.com/PMExpertsDE/Server-Helper)
