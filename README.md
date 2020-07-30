@@ -1,4 +1,4 @@
-# MeCommand - Finished
+# MeCommand
 ---
 | Discord |
 | :-----: |
@@ -15,14 +15,6 @@ Simple Helper Plugin for Servers!
     - [x] Config File
     - [x] Custom Me Message
 
-### Next TODO:
-- nothing is planned!
-
-# Addon Plugins:
-- [ServerHelper](https://github.com/PMExpertsDE/Server-Helper)
-- [LobbyItems-PMExperts Edition](https://github.com/PMExpertsDE/LobbyItems-PMExperts)
-
-### You want to help us?
-Do it! Yeah were search for Developers of you want to help do it.
-
-## Thanks for all Users and Helpers!
+## Addon Plugins:
+- [ServerHelper](https://github.com/PocketMine-Plugin/ServerHelper)
+- [LobbyItems](https://github.com/PocketMine-Plugin/LobbyItems)
